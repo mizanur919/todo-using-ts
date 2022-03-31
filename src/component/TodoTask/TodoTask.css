@@ -1,0 +1,18 @@
+.display-area{
+    background-color: lightblue;
+    width: 50vw;
+    margin: 10px auto;
+    padding: 20px;
+}
+.display-todo{
+    margin-right: 1px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: lightcoral;
+    font-weight: 500;
+}
+.todo-btn{
+    padding: 6px 5px;
+    background-color: maroon;
+    color: white;
+}
